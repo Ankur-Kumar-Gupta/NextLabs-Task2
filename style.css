@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgba(27, 27, 27, 0.729);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+#container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+.user-card {
+  /* border: 2px solid black; */
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  background-color: orangered;
+}
