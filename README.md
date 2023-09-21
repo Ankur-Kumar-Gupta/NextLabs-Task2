@@ -9,11 +9,10 @@ Lazy loading is a technique used in web development to enhance the user experien
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [API](#api)
-- [License](#license)
 
 ## Demo
 
-You can see a live demo of this project [here](https://your-demo-url.com).
+You can see a live demo of this project [here](https://ankur-kumar-gupta.github.io/NextLabs-Task2/).
 
 ## Features
 
